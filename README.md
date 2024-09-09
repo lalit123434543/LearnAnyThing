@@ -1,2 +1,5 @@
 # python-starting
 I am starting python and here i am going to learn it so its just for me and i am doing public cuz i can access it from different account
+I am doing this upto 100 days as 100days challenge of python programming learning
+Author- Lalit Budhathoki
+
