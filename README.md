@@ -4,4 +4,4 @@ I am doing this upto 100 days as 100days challenge of python programming learnin
 <h2>Author- Lalit Budhathoki</h2>
 It is starting with sept 10
 <h3>Day 1</h3>
-<p> </p>
+<p> i learned today a basic things that i have already learn in many programming languages so its not so difficult and also i learn some frameworks name that i am starting from tommaro cuz i know basic already so i will go it with tommaro</p>
