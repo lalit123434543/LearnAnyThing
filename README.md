@@ -8,3 +8,6 @@ It is starting with sept 10
 
 <h3>Day 2</h3>
 <p>i learned about file handling in python this day at day 2</p>
+
+<h3>Day 3</h3>
+<p>Today i learned about tkinter in python</p>
